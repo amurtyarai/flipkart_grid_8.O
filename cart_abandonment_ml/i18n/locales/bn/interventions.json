@@ -1,0 +1,22 @@
+{
+  "nudge.emi.no_cost": "চেকআউটে নো-কস্ট ইএমআই (No-cost EMI) অপশন অফার করুন।",
+  "nudge.trust.flipkart_assured": "১০০% ফ্লিপকার্ট অ্যাসিওর সুরক্ষা এবং সহজ ৭ দিনের রিটার্ন গ্যারান্টি দেখান।",
+  "nudge.shipping.free_instant": "বিনামূল্যে ডেলিভারির সুবিধা দিন এবং ডেলিভারি চার্জ সম্পূর্ণ মুকুব করুন।",
+  "nudge.urgency.price_lock": "১৫ মিনিটের দাম লক টাইমার বানিয়ে দ্রুত কেনাকাটার তাগিদ তৈরি করুন।",
+  "nudge.discount.upi_100": "ইউপিআই বা ব্যাঙ্ক কার্ড ব্যবহারে ১০০ টাকা তাতক্ষণিক ক্যাশব্যাক দিন।",
+  "nudge.social_proof.stock_alert": "লাইভ স্টক সতর্কতা: 'মাত্র ৩টি বাকি আছে — ৪৫ জন গ্রাহক এখন এটি দেখছেন'।",
+  "nudge.shipping.express_tomorrow": "আগামীকাল সন্ধ্যার মধ্যে নিশ্চিত এক্সপ্রেস ডেলিভারির সুবিধা নিন।",
+  "nudge.reminder.standard_24h": "২৪ ঘণ্টা পরে একটি সাধারণ কার্ট রিমাইন্ডার পাঠান।",
+
+  "Offer no-cost EMI options at checkout.": "চেকআউটে নো-কস্ট ইএমআই (No-cost EMI) অপশন অফার করুন।",
+  "Highlight 100% Flipkart Assured buyer protection and easy 7-day returns.": "১০০% ফ্লিপকার্ট অ্যাসিওর সুরক্ষা এবং সহজ ৭ দিনের রিটার্ন গ্যারান্টি দেখান।",
+  "Waive delivery charges dynamically for carts above threshold or offer instant free shipping.": "বিনামূল্যে ডেলিভারির সুবিধা দিন এবং ডেলিভারি চার্জ সম্পূর্ণ মুকুব করুন।",
+  "Display a 15-minute price lock timer to create urgency without discount erosion.": "১৫ মিনিটের দাম লক টাইমার বানিয়ে দ্রুত কেনাকাটার তাগিদ তৈরি করুন।",
+  "Offer a small flat ₹100 instant bank discount or UPI cashback.": "ইউপিআই বা ব্যাঙ্ক কার্ড ব্যবহারে ১০০ টাকা তাতক্ষণিক ক্যাশব্যাক দিন।",
+  "Show real-time stock alert: 'Only 3 items left in stock — 45 users viewing right now'.": "লাইভ স্টক সতর্কতা: 'মাত্র ৩টি বাকি আছে — ৪৫ জন গ্রাহক এখন এটি দেখছেন'।",
+  "Highlight guaranteed express delivery by tomorrow evening.": "আগামীকাল সন্ধ্যার মধ্যে নিশ্চিত এক্সপ্রেস ডেলিভারির সুবিধা নিন।",
+  "Trigger a standard cart abandonment reminder notification after 24 hours.": "২৪ ঘণ্টা পরে একটি সাধারণ কার্ট রিমাইন্ডার পাঠান।",
+
+  "error.session.not_found": "শপিং সেশন আইডি '{session_id}' ডাটাবেসে পাওয়া যায়নি।",
+  "notification.language.updated": "আপনার পছন্দের প্রদর্শন ভাষা {lang}-এ আপডেট করা হয়েছে।"
+}

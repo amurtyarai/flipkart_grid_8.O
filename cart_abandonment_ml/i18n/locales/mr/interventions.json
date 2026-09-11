@@ -1,0 +1,22 @@
+{
+  "nudge.emi.no_cost": "चेकआउटवर नो-कॉस्ट ईएमआय (No-cost EMI) पर्याय उपलब्ध करा.",
+  "nudge.trust.flipkart_assured": "100% फ्लिपकार्ट अश्युअर्ड (Flipkart Assured) सुरक्षा आणि सोपे 7 दिवसांचे रिटर्न.",
+  "nudge.shipping.free_instant": "त्वरित मोफत डिलिव्हरी (Free Delivery) चा लाभ द्या.",
+  "nudge.urgency.price_lock": "15 मिनिटांचा प्राईस लॉक टाइमर दाखवून जलद खरेदी प्रोत्साहन द्या.",
+  "nudge.discount.upi_100": "UPI किंवा बँक कार्डद्वारे ₹100 झटपट सवलत मिळवा.",
+  "nudge.social_proof.stock_alert": "स्टॉक अलर्ट: 'फक्त 3 वस्तू शिल्लक आहेत — 45 ग्राहक सध्या पाहत आहेत'.",
+  "nudge.shipping.express_tomorrow": "उद्या संध्याकाळपर्यंत गॅरंटीड एक्सप्रेस डिलिव्हरी मिळवा.",
+  "nudge.reminder.standard_24h": "24 तासांनंतर कार्ट रिमायंडर नोटिफिकेशन पाठवा.",
+
+  "Offer no-cost EMI options at checkout.": "चेकआउटवर नो-कॉस्ट ईएमआय (No-cost EMI) पर्याय उपलब्ध करा.",
+  "Highlight 100% Flipkart Assured buyer protection and easy 7-day returns.": "100% फ्लिपकार्ट अश्युअर्ड (Flipkart Assured) सुरक्षा आणि सोपे 7 दिवसांचे रिटर्न.",
+  "Waive delivery charges dynamically for carts above threshold or offer instant free shipping.": "त्वरित मोफत डिलिव्हरी (Free Delivery) चा लाभ द्या.",
+  "Display a 15-minute price lock timer to create urgency without discount erosion.": "15 मिनिटांचा प्राईस लॉक टाइमर दाखवून जलद खरेदी प्रोत्साहन द्या.",
+  "Offer a small flat ₹100 instant bank discount or UPI cashback.": "UPI किंवा बँक कार्डद्वारे ₹100 झटपट सवलत मिळवा.",
+  "Show real-time stock alert: 'Only 3 items left in stock — 45 users viewing right now'.": "स्टॉक अलर्ट: 'फक्त 3 वस्तू शिल्लक आहेत — 45 ग्राहक सध्या पाहत आहेत'.",
+  "Highlight guaranteed express delivery by tomorrow evening.": "उद्या संध्याकाळपर्यंत गॅरंटीड एक्सप्रेस डिलिव्हरी मिळवा.",
+  "Trigger a standard cart abandonment reminder notification after 24 hours.": "24 तासांनंतर कार्ट रिमायंडर नोटिफिकेशन पाठवा.",
+
+  "error.session.not_found": "शॉपिंग सेशन आयडी '{session_id}' डेटाबेसमध्ये आढळला नाही.",
+  "notification.language.updated": "तुमची आवडती भाषा {lang} वर अपडेट करण्यात आली आहे."
+}

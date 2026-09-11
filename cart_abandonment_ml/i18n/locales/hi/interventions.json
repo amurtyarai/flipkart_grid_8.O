@@ -1,0 +1,22 @@
+{
+  "nudge.emi.no_cost": "चेकआउट पर नो-कॉस्ट ईएमआई (No-cost EMI) विकल्प प्रदान करें।",
+  "nudge.trust.flipkart_assured": "100% फ्लिपकार्ट एश्योर्ड (Flipkart Assured) खरीदार सुरक्षा और आसान 7-दिन की वापसी का प्रदर्शन करें।",
+  "nudge.shipping.free_instant": "न्यूनतम कार्ट राशि पर तुरंत मुफ्त डिलीवरी (Free Shipping) का लाभ दें।",
+  "nudge.urgency.price_lock": "बिना छूट दिए जल्द खरीदारी के लिए 15 मिनट का प्राइस लॉक टाइमर दिखाएं।",
+  "nudge.discount.upi_100": "यूपीआई या कार्ड से तुरंत ₹100 की सीधी छूट या कैशबैक ऑफर प्रदान करें।",
+  "nudge.social_proof.stock_alert": "स्टॉक अलर्ट दिखाएं: 'केवल 3 आइटम बचे हैं — 45 ग्राहक अभी इसे देख रहे हैं'।",
+  "nudge.shipping.express_tomorrow": "कल शाम तक गारंटीड एक्सप्रेस डिलीवरी की जानकारी दें।",
+  "nudge.reminder.standard_24h": "24 घंटे के बाद कार्ट रीमाइंडर नोटिफिकेशन भेजें।",
+
+  "Offer no-cost EMI options at checkout.": "चेकआउट पर नो-कॉस्ट ईएमआई (No-cost EMI) विकल्प प्रदान करें।",
+  "Highlight 100% Flipkart Assured buyer protection and easy 7-day returns.": "100% फ्लिपकार्ट एश्योर्ड (Flipkart Assured) खरीदार सुरक्षा और आसान 7-दिन की वापसी का प्रदर्शन करें।",
+  "Waive delivery charges dynamically for carts above threshold or offer instant free shipping.": "न्यूनतम कार्ट राशि पर तुरंत मुफ्त डिलीवरी (Free Shipping) का लाभ दें।",
+  "Display a 15-minute price lock timer to create urgency without discount erosion.": "बिना छूट दिए जल्द खरीदारी के लिए 15 मिनट का प्राइस लॉक टाइमर दिखाएं।",
+  "Offer a small flat ₹100 instant bank discount or UPI cashback.": "यूपीआई या कार्ड से तुरंत ₹100 की सीधी छूट या कैशबैक ऑफर प्रदान करें।",
+  "Show real-time stock alert: 'Only 3 items left in stock — 45 users viewing right now'.": "स्टॉक अलर्ट दिखाएं: 'केवल 3 आइटम बचे हैं — 45 ग्राहक अभी इसे देख रहे हैं'।",
+  "Highlight guaranteed express delivery by tomorrow evening.": "कल शाम तक गारंटीड एक्सप्रेस डिलीवरी की जानकारी दें।",
+  "Trigger a standard cart abandonment reminder notification after 24 hours.": "24 घंटे के बाद कार्ट रीमाइंडर नोटिफिकेशन भेजें।",
+
+  "error.session.not_found": "शॉपिंग सेशन आईडी '{session_id}' डेटाबेस में नहीं मिला।",
+  "notification.language.updated": "आपकी पसंदीदा प्रदर्शन भाषा को {lang} में अपडेट कर दिया गया है।"
+}

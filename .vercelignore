@@ -1,0 +1,37 @@
+# Vercel Deployment Exclusions
+# Ignore heavy datasets, virtual environments, raw model binaries, and static plots to keep bundle size < 500MB
+
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Heavy Datasets
+synthetic_cart_abandonment_500k.csv
+synthetic_cart_abandonment_500k.parquet
+synthetic_dataset.csv
+synthetic_dataset.parquet
+
+# Heavy PDF / Presentation / Large Artifact Files
+*.pdf
+*.pptx
+*.png
+*.html
+
+# Generated Output / Plots / SHAP outputs
+plots_ab/
+plots_system_ab/
+shap_output/
+artifacts/
+
+# Heavy Vector DB / Binary Models (Move models to external hosting or lightweight fallback)
+models/chroma_db/
+models/*.pkl
+models/*.xgb
+models/*.npy
+models/force_plot.html
+
+# Frontend build cache & dependencies (Vercel builds frontend in frontend/ dist)
+frontend/node_modules/
+frontend/.cache/

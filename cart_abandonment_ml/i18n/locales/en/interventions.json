@@ -1,0 +1,22 @@
+{
+  "nudge.emi.no_cost": "Offer no-cost EMI options at checkout.",
+  "nudge.trust.flipkart_assured": "Highlight 100% Flipkart Assured buyer protection and easy 7-day returns.",
+  "nudge.shipping.free_instant": "Waive delivery charges dynamically for carts above threshold or offer instant free shipping.",
+  "nudge.urgency.price_lock": "Display a 15-minute price lock timer to create urgency without discount erosion.",
+  "nudge.discount.upi_100": "Offer a small flat ₹100 instant bank discount or UPI cashback.",
+  "nudge.social_proof.stock_alert": "Show real-time stock alert: 'Only 3 items left in stock — 45 users viewing right now'.",
+  "nudge.shipping.express_tomorrow": "Highlight guaranteed express delivery by tomorrow evening.",
+  "nudge.reminder.standard_24h": "Trigger a standard cart abandonment reminder notification after 24 hours.",
+
+  "Offer no-cost EMI options at checkout.": "Offer no-cost EMI options at checkout.",
+  "Highlight 100% Flipkart Assured buyer protection and easy 7-day returns.": "Highlight 100% Flipkart Assured buyer protection and easy 7-day returns.",
+  "Waive delivery charges dynamically for carts above threshold or offer instant free shipping.": "Waive delivery charges dynamically for carts above threshold or offer instant free shipping.",
+  "Display a 15-minute price lock timer to create urgency without discount erosion.": "Display a 15-minute price lock timer to create urgency without discount erosion.",
+  "Offer a small flat ₹100 instant bank discount or UPI cashback.": "Offer a small flat ₹100 instant bank discount or UPI cashback.",
+  "Show real-time stock alert: 'Only 3 items left in stock — 45 users viewing right now'.": "Show real-time stock alert: 'Only 3 items left in stock — 45 users viewing right now'.",
+  "Highlight guaranteed express delivery by tomorrow evening.": "Highlight guaranteed express delivery by tomorrow evening.",
+  "Trigger a standard cart abandonment reminder notification after 24 hours.": "Trigger a standard cart abandonment reminder notification after 24 hours.",
+
+  "error.session.not_found": "Shopping session ID '{session_id}' could not be located in datastore.",
+  "notification.language.updated": "Your preferred display language has been updated to {lang}."
+}

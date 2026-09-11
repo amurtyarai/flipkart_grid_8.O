@@ -1,0 +1,22 @@
+{
+  "nudge.emi.no_cost": "చెకౌట్ వద్ద సున్నా వడ్డీ EMI (No-cost EMI) ఎంపికను అందించండి.",
+  "nudge.trust.flipkart_assured": "100% ఫ్లిప్‌కార్ట్ అస్యూర్డ్ రక్షణ మరియు 7 రోజులలో సులభమైన రిటర్న్‌లు.",
+  "nudge.shipping.free_instant": "తక్షణ ఉచిత డెలివరీ (Free Shipping) ఆఫర్‌ను ప్రదర్శించండి.",
+  "nudge.urgency.price_lock": "15 నిమిషాల ధర లాక్ టైమర్‌ను చూపించి త్వరిత కొనుగోలును ప్రోత్సహించండి.",
+  "nudge.discount.upi_100": "UPI లేదా కార్డ్ ద్వారా తక్షణమే ₹100 తగ్గింపు పొందండి.",
+  "nudge.social_proof.stock_alert": "స్టాక్ అలర్ట్: 'కేవలం 3 వస్తువులు మాత్రమే ఉన్నాయి — 45 మంది చూస్తున్నారు'.",
+  "nudge.shipping.express_tomorrow": "రేపు సాయంత్రానికల్లా గ్యారెంటీడ్ ఎక్స్‌ప్రెస్ డెలివరీ పొందండి.",
+  "nudge.reminder.standard_24h": "24 గంటల తర్వాత కార్ట్ రిమైండర్ నోటిఫికేషన్‌ను పంపండి.",
+
+  "Offer no-cost EMI options at checkout.": "చెకౌట్ వద్ద సున్నా వడ్డీ EMI (No-cost EMI) ఎంపికను అందించండి.",
+  "Highlight 100% Flipkart Assured buyer protection and easy 7-day returns.": "100% ఫ్లిప్‌కార్ట్ అస్యూర్డ్ రక్షణ మరియు 7 రోజులలో సులభమైన రిటర్న్‌లు.",
+  "Waive delivery charges dynamically for carts above threshold or offer instant free shipping.": "తక్షణ ఉచిత డెలివరీ (Free Shipping) ఆఫర్‌ను ప్రదర్శించండి.",
+  "Display a 15-minute price lock timer to create urgency without discount erosion.": "15 నిమిషాల ధర లాక్ టైమర్‌ను చూపించి త్వరిత కొనుగోలును ప్రోత్సహించండి.",
+  "Offer a small flat ₹100 instant bank discount or UPI cashback.": "UPI లేదా కార్డ్ ద్వారా తక్షణమే ₹100 తగ్గింపు పొందండి.",
+  "Show real-time stock alert: 'Only 3 items left in stock — 45 users viewing right now'.": "స్టాక్ అలర్ట్: 'కేవలం 3 వస్తువులు మాత్రమే ఉన్నాయి — 45 మంది చూస్తున్నారు'.",
+  "Highlight guaranteed express delivery by tomorrow evening.": "రేపు సాయంత్రానికల్లా గ్యారెంటీడ్ ఎక్స్‌ప్రెస్ డెలివరీ పొందండి.",
+  "Trigger a standard cart abandonment reminder notification after 24 hours.": "24 గంటల తర్వాత కార్ట్ రిమైండర్ నోటిఫికేషన్‌ను పంపండి.",
+
+  "error.session.not_found": "షాపింగ్ సెషన్ ID '{session_id}' డేటాబేస్‌లో కనుగొనబడలేదు.",
+  "notification.language.updated": "మీకు నచ్చిన భాష {lang} కి నవీకరించబడింది."
+}

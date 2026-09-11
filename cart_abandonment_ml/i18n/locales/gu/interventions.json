@@ -1,0 +1,22 @@
+{
+  "nudge.emi.no_cost": "ચેકઆઉટ પર નો-કોસ્ટ ઈએમઆઈ (No-cost EMI) વિકલ્પ આપો.",
+  "nudge.trust.flipkart_assured": "100% ફ્લિપકાર્ટ એશ્યોર્ડ સુરક્ષા અને સરળ 7 દિવસીય રીટર્ન નીતિ.",
+  "nudge.shipping.free_instant": "મફત ડિલિવરી (Free Delivery) નો લાભ મેળવો.",
+  "nudge.urgency.price_lock": "15 મિનિટનો પ્રાઈસ લોક ટાઈમર બતાવીને ઝડપી ખરીદી માટે પ્રોત્સાહિત કરો.",
+  "nudge.discount.upi_100": "UPI અથવા કાર્ડ દ્વારા ₹100 ત્વરિત કેશબેક મેળવો.",
+  "nudge.social_proof.stock_alert": "સ્ટોક એલર્ટ: 'માત્ર 3 વસ્તુઓ બાકી છે — 45 ગ્રાહકો અત્યારે જોઈ રહ્યા છે'.",
+  "nudge.shipping.express_tomorrow": "આવતીકાલ સાંજ સુધીમાં ગેરંટીડ એક્સપ્રેસ ડિલિવરી મેળવો.",
+  "nudge.reminder.standard_24h": "24 કલાક પછી કાર્ટ રીમાઇન્ડર નોટિફિકેશન મોકલો.",
+
+  "Offer no-cost EMI options at checkout.": "ચેકઆઉટ પર નો-કોસ્ટ ઈએમઆઈ (No-cost EMI) વિકલ્પ આપો.",
+  "Highlight 100% Flipkart Assured buyer protection and easy 7-day returns.": "100% ફ્લિપકાર્ટ એશ્યોર્ડ સુરક્ષા અને સરળ 7 દિવસીય રીટર્ન નીતિ.",
+  "Waive delivery charges dynamically for carts above threshold or offer instant free shipping.": "મફત ડિલિવરી (Free Delivery) નો લાભ મેળવો.",
+  "Display a 15-minute price lock timer to create urgency without discount erosion.": "15 મિનિટનો પ્રાઈસ લોક ટાઈમર બતાવીને ઝડપી ખરીદી માટે પ્રોત્સાહિત કરો.",
+  "Offer a small flat ₹100 instant bank discount or UPI cashback.": "UPI અથવા કાર્ડ દ્વારા ₹100 ત્વરિત કેશબેક મેળવો.",
+  "Show real-time stock alert: 'Only 3 items left in stock — 45 users viewing right now'.": "સ્ટોક એલર્ટ: 'માત્ર 3 વસ્તુઓ બાકી છે — 45 ગ્રાહકો અત્યારે જોઈ રહ્યા છે'.",
+  "Highlight guaranteed express delivery by tomorrow evening.": "આવતીકાલ સાંજ સુધીમાં ગેરંટીડ એક્સપ્રેસ ડિલિવરી મેળવો.",
+  "Trigger a standard cart abandonment reminder notification after 24 hours.": "24 કલાક પછી કાર્ટ રીમાઇન્ડર નોટિફિકેશન મોકલો.",
+
+  "error.session.not_found": "શોપિંગ સેશન ID '{session_id}' ડેટાબેઝમાં મળ્યું નથી.",
+  "notification.language.updated": "તમારી પસંદીદા ભાષા {lang} માં અપડેટ કરવામાં આવી છે."
+}

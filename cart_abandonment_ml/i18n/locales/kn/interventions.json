@@ -1,0 +1,22 @@
+{
+  "nudge.emi.no_cost": "ಚೆಕ್‌ಔಟ್‌ನಲ್ಲಿ ಉಚಿತ ಇಎಮ್‌ಐ (No-cost EMI) ಆಯ್ಕೆಯನ್ನು ನೀಡಿ.",
+  "nudge.trust.flipkart_assured": "100% ಫ್ಲಿಪ್‌ಕಾರ್ಟ್ ಅಶ್ಯೂರ್ಡ್ ಗ್ಯಾರಂಟಿ ಮತ್ತು 7 ದಿನಗಳ ಸುಲಭ ರಿಟರ್ನ್ಸ್.",
+  "nudge.shipping.free_instant": "ತಕ್ಷಣದ ಉಚಿತ ಡೆಲಿವರಿ (Free Delivery) ಆಫರ್ ನೀಡಲಾಗಿದೆ.",
+  "nudge.urgency.price_lock": "15 ನಿಮಿಷಗಳ ಬೆಲೆ ಲಾಕ್ ಟೈಮರ್ ತೋರಿಸಿ ಶೀಘ್ರ ಖರೀದಿಗೆ ಪ್ರೇರೇಪಿಸಿ.",
+  "nudge.discount.upi_100": "ಯುಪಿಐ ಅಥವಾ ಕಾರ್ಡ್ ಮೂಲಕ ತಕ್ಷಣದ ₹100 ರಿಯಾಯಿತಿ ಪಡೆಯಿರಿ.",
+  "nudge.social_proof.stock_alert": "ಸ್ಟಾಕ್ ಎಚ್ಚರಿಕೆ: 'ಕೇವಲ 3 ಐಟಂಗಳು ಲಭ್ಯವಿದೆ — 45 ಜನರು ವೀಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ'.",
+  "nudge.shipping.express_tomorrow": "ನಾಳೆ ಸಂಜೆಯೊಳಗೆ ಖಾತರಿಯ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಡೆಲಿವರಿ ಪಡೆಯಿರಿ.",
+  "nudge.reminder.standard_24h": "24 ಗಂಟೆಗಳ ನಂತರ ಕಾರ್ಟ್ ಜ್ಞಾಪನೆ ಅಧಿಸೂಚನೆ ಕಳುಹಿಸಿ.",
+
+  "Offer no-cost EMI options at checkout.": "ಚೆಕ್‌ಔಟ್‌ನಲ್ಲಿ ಉಚಿತ ಇಎಮ್‌ಐ (No-cost EMI) ಆಯ್ಕೆಯನ್ನು ನೀಡಿ.",
+  "Highlight 100% Flipkart Assured buyer protection and easy 7-day returns.": "100% ಫ್ಲಿಪ್‌ಕಾರ್ಟ್ ಅಶ್ಯೂರ್ಡ್ ಗ್ಯಾರಂಟಿ ಮತ್ತು 7 ದಿನಗಳ ಸುಲಭ ರಿಟರ್ನ್ಸ್.",
+  "Waive delivery charges dynamically for carts above threshold or offer instant free shipping.": "ತಕ್ಷಣದ ಉಚಿತ ಡೆಲಿವರಿ (Free Delivery) ಆಫರ್ ನೀಡಲಾಗಿದೆ.",
+  "Display a 15-minute price lock timer to create urgency without discount erosion.": "15 ನಿಮಿಷಗಳ ಬೆಲೆ ಲಾಕ್ ಟೈಮರ್ ತೋರಿಸಿ ಶೀಘ್ರ ಖರೀದಿಗೆ ಪ್ರೇರೇಪಿಸಿ.",
+  "Offer a small flat ₹100 instant bank discount or UPI cashback.": "ಯುಪಿಐ ಅಥವಾ ಕಾರ್ಡ್ ಮೂಲಕ ತಕ್ಷಣದ ₹100 ರಿಯಾಯಿತಿ ಪಡೆಯಿರಿ.",
+  "Show real-time stock alert: 'Only 3 items left in stock — 45 users viewing right now'.": "ಸ್ಟಾಕ್ ಎಚ್ಚರಿಕೆ: 'ಕೇವಲ 3 ಐಟಂಗಳು ಲಭ್ಯವಿದೆ — 45 ಜನರು ವೀಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ'.",
+  "Highlight guaranteed express delivery by tomorrow evening.": "ನಾಳೆ ಸಂಜೆಯೊಳಗೆ ಖಾತರಿಯ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಡೆಲಿವರಿ ಪಡೆಯಿರಿ.",
+  "Trigger a standard cart abandonment reminder notification after 24 hours.": "24 ಗಂಟೆಗಳ ನಂತರ ಕಾರ್ಟ್ ಜ್ಞಾಪನೆ ಅಧಿಸೂಚನೆ ಕಳುಹಿಸಿ.",
+
+  "error.session.not_found": "ಶಾಪಿಂಗ್ ಸೆಷನ್ ಐಡಿ '{session_id}' ಡೇಟಾಬೇಸ್‌ನಲ್ಲಿ ಕಂಡುಬಂದಿಲ್ಲ.",
+  "notification.language.updated": "ನಿಮ್ಮ ಮೆಚ್ಚಿನ ಭಾಷೆಯನ್ನು {lang} ಗೆ ನವೀಕರಿಸಲಾಗಿದೆ."
+}

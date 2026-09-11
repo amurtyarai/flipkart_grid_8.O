@@ -1,0 +1,28 @@
+{
+  "dataset_summary": {
+    "n_test_samples": 10000,
+    "baseline_abandonment_rate": 0.7749
+  },
+  "prediction_accuracy": {
+    "pr_auc": 0.7917,
+    "pr_auc_naive_baseline": 0.7749,
+    "pr_auc_lift_over_baseline": 1.02,
+    "roc_auc": 0.5336,
+    "lift_at_decile_1": 1.05,
+    "log_loss": 0.5315,
+    "brier_score": 0.1739
+  },
+  "probability_calibration": {
+    "isotonic_calibration_applied": true,
+    "ece_uncalibrated": 0.4358,
+    "ece_calibrated": 0.0,
+    "calibration_improvement_pct": 100.0,
+    "cost_benefit_optimal_threshold": 0.38
+  },
+  "system_latency_ms": {
+    "p50_ms": 0.036,
+    "p95_ms": 0.071,
+    "p99_ms": 0.222,
+    "status": "PASS (<15ms SLA)"
+  }
+}

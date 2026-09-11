@@ -1,0 +1,41 @@
+{
+  "classifier": {
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "n_estimators": 500,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "min_child_weight": 5,
+    "gamma": 0.1,
+    "reg_alpha": 0.01,
+    "reg_lambda": 1.0,
+    "scale_pos_weight": 1.0,
+    "early_stopping_rounds": 30,
+    "tree_method": "hist",
+    "use_label_encoder": false,
+    "verbosity": 0
+  },
+  "regressor": {
+    "objective": "reg:squarederror",
+    "eval_metric": "rmse",
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "n_estimators": 500,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "min_child_weight": 5,
+    "gamma": 0.1,
+    "reg_alpha": 0.01,
+    "reg_lambda": 1.0,
+    "early_stopping_rounds": 30,
+    "tree_method": "hist",
+    "verbosity": 0
+  },
+  "random_seed": 42,
+  "test_size": 0.1,
+  "val_size": 0.1,
+  "classification_threshold": 0.5,
+  "n_features": 128
+}

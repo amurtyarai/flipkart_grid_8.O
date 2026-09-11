@@ -1,0 +1,962 @@
+[
+  {
+    "session_id": "0",
+    "abandonment_probability": 0.273303,
+    "predicted_class": "Likely Purchase",
+    "base_value": 1.05767,
+    "top_features": [
+      {
+        "feature": "hesitation_score",
+        "importance": -0.958065,
+        "shap_rank": 1,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "quality_uncertainty_score",
+        "importance": -0.782041,
+        "shap_rank": 2,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "trust_score",
+        "importance": 0.488614,
+        "shap_rank": 3,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "time_between_cart_and_checkout",
+        "importance": -0.237671,
+        "shap_rank": 4,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "persona_Price Sensitive Shopper",
+        "importance": -0.215082,
+        "shap_rank": 5,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "free_delivery_eligible",
+        "importance": 0.203633,
+        "shap_rank": 6,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "negative_reviews_read",
+        "importance": -0.126343,
+        "shap_rank": 7,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "total_historical_purchases",
+        "importance": 0.100174,
+        "shap_rank": 8,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "session_duration_seconds",
+        "importance": -0.097766,
+        "shap_rank": 9,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "competitor_difference",
+        "importance": -0.089699,
+        "shap_rank": 10,
+        "direction": "decreases_abandonment"
+      }
+    ],
+    "risk_drivers": [
+      {
+        "feature": "trust_score",
+        "importance": 0.488614,
+        "shap_rank": 3,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "free_delivery_eligible",
+        "importance": 0.203633,
+        "shap_rank": 6,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "total_historical_purchases",
+        "importance": 0.100174,
+        "shap_rank": 8,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "persona_Loyal Customer",
+        "importance": 0.065033,
+        "shap_rank": 12,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "price_sensitivity_score",
+        "importance": 0.063845,
+        "shap_rank": 13,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "scroll_depth",
+        "importance": 0.038664,
+        "shap_rank": 18,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "review_visit_ratio",
+        "importance": 0.027985,
+        "shap_rank": 24,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "rating_count",
+        "importance": 0.026017,
+        "shap_rank": 27,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "tab_switch_count",
+        "importance": 0.024439,
+        "shap_rank": 29,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "is_flipkart_assured",
+        "importance": 0.020041,
+        "shap_rank": 32,
+        "direction": "increases_abandonment"
+      }
+    ],
+    "retention_signals": [
+      {
+        "feature": "hesitation_score",
+        "importance": -0.958065,
+        "shap_rank": 1,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "quality_uncertainty_score",
+        "importance": -0.782041,
+        "shap_rank": 2,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "time_between_cart_and_checkout",
+        "importance": -0.237671,
+        "shap_rank": 4,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "persona_Price Sensitive Shopper",
+        "importance": -0.215082,
+        "shap_rank": 5,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "negative_reviews_read",
+        "importance": -0.126343,
+        "shap_rank": 7,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "session_duration_seconds",
+        "importance": -0.097766,
+        "shap_rank": 9,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "competitor_difference",
+        "importance": -0.089699,
+        "shap_rank": 10,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "mouse_hover_time",
+        "importance": -0.066569,
+        "shap_rank": 11,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "category_embedding_1",
+        "importance": -0.059968,
+        "shap_rank": 14,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "idle_time_seconds",
+        "importance": -0.055517,
+        "shap_rank": 15,
+        "direction": "decreases_abandonment"
+      }
+    ]
+  },
+  {
+    "session_id": "1",
+    "abandonment_probability": 0.3562,
+    "predicted_class": "Likely Purchase",
+    "base_value": 1.05767,
+    "top_features": [
+      {
+        "feature": "hesitation_score",
+        "importance": -0.948335,
+        "shap_rank": 1,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "trust_score",
+        "importance": 0.482355,
+        "shap_rank": 2,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "time_between_cart_and_checkout",
+        "importance": -0.265813,
+        "shap_rank": 3,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "quality_uncertainty_score",
+        "importance": -0.24903,
+        "shap_rank": 4,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "free_delivery_eligible",
+        "importance": 0.230198,
+        "shap_rank": 5,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "persona_Price Sensitive Shopper",
+        "importance": -0.18753,
+        "shap_rank": 6,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "idle_time_seconds",
+        "importance": -0.11375,
+        "shap_rank": 7,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "session_duration_seconds",
+        "importance": -0.106626,
+        "shap_rank": 8,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "total_historical_purchases",
+        "importance": 0.102974,
+        "shap_rank": 9,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "price_sensitivity_score",
+        "importance": -0.092211,
+        "shap_rank": 10,
+        "direction": "decreases_abandonment"
+      }
+    ],
+    "risk_drivers": [
+      {
+        "feature": "trust_score",
+        "importance": 0.482355,
+        "shap_rank": 2,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "free_delivery_eligible",
+        "importance": 0.230198,
+        "shap_rank": 5,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "total_historical_purchases",
+        "importance": 0.102974,
+        "shap_rank": 9,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "persona_Loyal Customer",
+        "importance": 0.069557,
+        "shap_rank": 12,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "review_visit_ratio",
+        "importance": 0.03343,
+        "shap_rank": 19,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "fake_review_probability",
+        "importance": 0.031357,
+        "shap_rank": 22,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "seller_trust_score",
+        "importance": 0.023082,
+        "shap_rank": 28,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "total_historical_spend",
+        "importance": 0.019884,
+        "shap_rank": 31,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "product_embedding_3",
+        "importance": 0.01912,
+        "shap_rank": 32,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "rating_count",
+        "importance": 0.018361,
+        "shap_rank": 33,
+        "direction": "increases_abandonment"
+      }
+    ],
+    "retention_signals": [
+      {
+        "feature": "hesitation_score",
+        "importance": -0.948335,
+        "shap_rank": 1,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "time_between_cart_and_checkout",
+        "importance": -0.265813,
+        "shap_rank": 3,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "quality_uncertainty_score",
+        "importance": -0.24903,
+        "shap_rank": 4,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "persona_Price Sensitive Shopper",
+        "importance": -0.18753,
+        "shap_rank": 6,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "idle_time_seconds",
+        "importance": -0.11375,
+        "shap_rank": 7,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "session_duration_seconds",
+        "importance": -0.106626,
+        "shap_rank": 8,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "price_sensitivity_score",
+        "importance": -0.092211,
+        "shap_rank": 10,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "mouse_hover_time",
+        "importance": -0.092084,
+        "shap_rank": 11,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "competitor_difference",
+        "importance": -0.064809,
+        "shap_rank": 13,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "payment_failures",
+        "importance": -0.050455,
+        "shap_rank": 14,
+        "direction": "decreases_abandonment"
+      }
+    ]
+  },
+  {
+    "session_id": "2",
+    "abandonment_probability": 0.627296,
+    "predicted_class": "Likely Abandon",
+    "base_value": 1.05767,
+    "top_features": [
+      {
+        "feature": "hesitation_score",
+        "importance": 1.036082,
+        "shap_rank": 1,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "time_between_cart_and_checkout",
+        "importance": -0.978465,
+        "shap_rank": 2,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "quality_uncertainty_score",
+        "importance": -0.538812,
+        "shap_rank": 3,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "trust_score",
+        "importance": 0.36567,
+        "shap_rank": 4,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "payment_failures",
+        "importance": 0.275582,
+        "shap_rank": 5,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "free_delivery_eligible",
+        "importance": 0.179451,
+        "shap_rank": 6,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "idle_time_seconds",
+        "importance": -0.13448,
+        "shap_rank": 7,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "mouse_hover_time",
+        "importance": -0.131156,
+        "shap_rank": 8,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "time_since_cart_created",
+        "importance": -0.111098,
+        "shap_rank": 9,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "persona_Price Sensitive Shopper",
+        "importance": -0.10877,
+        "shap_rank": 10,
+        "direction": "decreases_abandonment"
+      }
+    ],
+    "risk_drivers": [
+      {
+        "feature": "hesitation_score",
+        "importance": 1.036082,
+        "shap_rank": 1,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "trust_score",
+        "importance": 0.36567,
+        "shap_rank": 4,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "payment_failures",
+        "importance": 0.275582,
+        "shap_rank": 5,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "free_delivery_eligible",
+        "importance": 0.179451,
+        "shap_rank": 6,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "fake_review_probability",
+        "importance": 0.065234,
+        "shap_rank": 16,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "action_transition_count",
+        "importance": 0.043318,
+        "shap_rank": 17,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "total_historical_purchases",
+        "importance": 0.039691,
+        "shap_rank": 19,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "review_visit_ratio",
+        "importance": 0.030773,
+        "shap_rank": 24,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "total_items_in_cart",
+        "importance": 0.023425,
+        "shap_rank": 26,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "scroll_depth",
+        "importance": 0.020116,
+        "shap_rank": 30,
+        "direction": "increases_abandonment"
+      }
+    ],
+    "retention_signals": [
+      {
+        "feature": "time_between_cart_and_checkout",
+        "importance": -0.978465,
+        "shap_rank": 2,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "quality_uncertainty_score",
+        "importance": -0.538812,
+        "shap_rank": 3,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "idle_time_seconds",
+        "importance": -0.13448,
+        "shap_rank": 7,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "mouse_hover_time",
+        "importance": -0.131156,
+        "shap_rank": 8,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "time_since_cart_created",
+        "importance": -0.111098,
+        "shap_rank": 9,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "persona_Price Sensitive Shopper",
+        "importance": -0.10877,
+        "shap_rank": 10,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "price_sensitivity_score",
+        "importance": -0.107486,
+        "shap_rank": 11,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "product_embedding_6",
+        "importance": -0.093355,
+        "shap_rank": 12,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "negative_reviews_read",
+        "importance": -0.07564,
+        "shap_rank": 13,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "session_duration_seconds",
+        "importance": -0.072332,
+        "shap_rank": 14,
+        "direction": "decreases_abandonment"
+      }
+    ]
+  },
+  {
+    "session_id": "3",
+    "abandonment_probability": 0.815382,
+    "predicted_class": "Likely Abandon",
+    "base_value": 1.05767,
+    "top_features": [
+      {
+        "feature": "checkout_restart_count",
+        "importance": 0.744663,
+        "shap_rank": 1,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "hesitation_score",
+        "importance": -0.725098,
+        "shap_rank": 2,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "trust_score",
+        "importance": 0.525122,
+        "shap_rank": 3,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "payment_failures",
+        "importance": 0.362926,
+        "shap_rank": 4,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "time_between_cart_and_checkout",
+        "importance": -0.285072,
+        "shap_rank": 5,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "free_delivery_eligible",
+        "importance": 0.21023,
+        "shap_rank": 6,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "persona_Price Sensitive Shopper",
+        "importance": -0.162274,
+        "shap_rank": 7,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "session_duration_seconds",
+        "importance": -0.147121,
+        "shap_rank": 8,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "mouse_hover_time",
+        "importance": -0.130102,
+        "shap_rank": 9,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "total_historical_purchases",
+        "importance": 0.119978,
+        "shap_rank": 10,
+        "direction": "increases_abandonment"
+      }
+    ],
+    "risk_drivers": [
+      {
+        "feature": "checkout_restart_count",
+        "importance": 0.744663,
+        "shap_rank": 1,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "trust_score",
+        "importance": 0.525122,
+        "shap_rank": 3,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "payment_failures",
+        "importance": 0.362926,
+        "shap_rank": 4,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "free_delivery_eligible",
+        "importance": 0.21023,
+        "shap_rank": 6,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "total_historical_purchases",
+        "importance": 0.119978,
+        "shap_rank": 10,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "quality_uncertainty_score",
+        "importance": 0.096585,
+        "shap_rank": 13,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "product_embedding_8",
+        "importance": 0.093825,
+        "shap_rank": 14,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "persona_Loyal Customer",
+        "importance": 0.074929,
+        "shap_rank": 15,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "competitor_difference",
+        "importance": 0.04545,
+        "shap_rank": 19,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "cart_value",
+        "importance": 0.037413,
+        "shap_rank": 20,
+        "direction": "increases_abandonment"
+      }
+    ],
+    "retention_signals": [
+      {
+        "feature": "hesitation_score",
+        "importance": -0.725098,
+        "shap_rank": 2,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "time_between_cart_and_checkout",
+        "importance": -0.285072,
+        "shap_rank": 5,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "persona_Price Sensitive Shopper",
+        "importance": -0.162274,
+        "shap_rank": 7,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "session_duration_seconds",
+        "importance": -0.147121,
+        "shap_rank": 8,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "mouse_hover_time",
+        "importance": -0.130102,
+        "shap_rank": 9,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "price_sensitivity_score",
+        "importance": -0.099608,
+        "shap_rank": 11,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "idle_time_seconds",
+        "importance": -0.096758,
+        "shap_rank": 12,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "discount_percentage",
+        "importance": -0.047535,
+        "shap_rank": 16,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "product_quality_score",
+        "importance": -0.047222,
+        "shap_rank": 17,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "time_since_cart_created",
+        "importance": -0.046879,
+        "shap_rank": 18,
+        "direction": "decreases_abandonment"
+      }
+    ]
+  },
+  {
+    "session_id": "4",
+    "abandonment_probability": 0.301651,
+    "predicted_class": "Likely Purchase",
+    "base_value": 1.05767,
+    "top_features": [
+      {
+        "feature": "quality_uncertainty_score",
+        "importance": -0.8248,
+        "shap_rank": 1,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "hesitation_score",
+        "importance": -0.732488,
+        "shap_rank": 2,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "trust_score",
+        "importance": 0.574564,
+        "shap_rank": 3,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "free_delivery_eligible",
+        "importance": 0.235333,
+        "shap_rank": 4,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "time_between_cart_and_checkout",
+        "importance": -0.215944,
+        "shap_rank": 5,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "persona_Price Sensitive Shopper",
+        "importance": -0.21555,
+        "shap_rank": 6,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "negative_reviews_read",
+        "importance": -0.137617,
+        "shap_rank": 7,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "session_duration_seconds",
+        "importance": -0.117621,
+        "shap_rank": 8,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "price_sensitivity_score",
+        "importance": -0.11551,
+        "shap_rank": 9,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "idle_time_seconds",
+        "importance": -0.110443,
+        "shap_rank": 10,
+        "direction": "decreases_abandonment"
+      }
+    ],
+    "risk_drivers": [
+      {
+        "feature": "trust_score",
+        "importance": 0.574564,
+        "shap_rank": 3,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "free_delivery_eligible",
+        "importance": 0.235333,
+        "shap_rank": 4,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "total_historical_purchases",
+        "importance": 0.099995,
+        "shap_rank": 11,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "persona_Loyal Customer",
+        "importance": 0.063685,
+        "shap_rank": 14,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "review_visit_ratio",
+        "importance": 0.048325,
+        "shap_rank": 17,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "action_transition_count",
+        "importance": 0.026268,
+        "shap_rank": 24,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "category_embedding_3",
+        "importance": 0.019121,
+        "shap_rank": 28,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "verified_review_percentage",
+        "importance": 0.019107,
+        "shap_rank": 29,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "total_historical_spend",
+        "importance": 0.017546,
+        "shap_rank": 32,
+        "direction": "increases_abandonment"
+      },
+      {
+        "feature": "is_flipkart_assured",
+        "importance": 0.017429,
+        "shap_rank": 33,
+        "direction": "increases_abandonment"
+      }
+    ],
+    "retention_signals": [
+      {
+        "feature": "quality_uncertainty_score",
+        "importance": -0.8248,
+        "shap_rank": 1,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "hesitation_score",
+        "importance": -0.732488,
+        "shap_rank": 2,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "time_between_cart_and_checkout",
+        "importance": -0.215944,
+        "shap_rank": 5,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "persona_Price Sensitive Shopper",
+        "importance": -0.21555,
+        "shap_rank": 6,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "negative_reviews_read",
+        "importance": -0.137617,
+        "shap_rank": 7,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "session_duration_seconds",
+        "importance": -0.117621,
+        "shap_rank": 8,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "price_sensitivity_score",
+        "importance": -0.11551,
+        "shap_rank": 9,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "idle_time_seconds",
+        "importance": -0.110443,
+        "shap_rank": 10,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "mouse_hover_time",
+        "importance": -0.099162,
+        "shap_rank": 12,
+        "direction": "decreases_abandonment"
+      },
+      {
+        "feature": "competitor_difference",
+        "importance": -0.07261,
+        "shap_rank": 13,
+        "direction": "decreases_abandonment"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "nudge.emi.no_cost": "செக்அவுட்டில் வட்டி இல்லாத EMI (No-cost EMI) தேர்வை வழங்கவும்.",
+  "nudge.trust.flipkart_assured": "100% பிளிப்கார்ட் அஷ்யூர்டு பாதுகாப்பு மற்றும் 7 நாள் எளிதான ரிட்டர்ன் வசதி.",
+  "nudge.shipping.free_instant": "உடனடி இலவச டெலிவரி (Free Delivery) சலுகையை வழங்கவும்.",
+  "nudge.urgency.price_lock": "15 நிமிட விலை லாக் டைமரை காண்பித்து விரைவான ஆர்டரை தூண்டவும்.",
+  "nudge.discount.upi_100": "UPI அல்லது கார்டு மூலம் ₹100 உடனடி தள்ளுபடி பெறவும்.",
+  "nudge.social_proof.stock_alert": "ஸ்டாக் எச்சரிக்கை: '3 பொருட்கள் மட்டுமே உள்ளன — 45 பேர் பார்க்கிறார்கள்'.",
+  "nudge.shipping.express_tomorrow": "நாளை மாலைக்குள் உத்தரவாதமான எக்ஸ்பிரஸ் டெலிவரி பெறுங்கள்.",
+  "nudge.reminder.standard_24h": "24 மணி நேரத்திற்கு பிறகு நினைவூட்டல் அறிவிப்பை அனுப்பவும்.",
+
+  "Offer no-cost EMI options at checkout.": "செக்அவுட்டில் வட்டி இல்லாத EMI (No-cost EMI) தேர்வை வழங்கவும்.",
+  "Highlight 100% Flipkart Assured buyer protection and easy 7-day returns.": "100% பிளிப்கார்ட் அஷ்யூர்டு பாதுகாப்பு மற்றும் 7 நாள் எளிதான ரிட்டர்ன் வசதி.",
+  "Waive delivery charges dynamically for carts above threshold or offer instant free shipping.": "உடனடி இலவச டெலிவரி (Free Delivery) சலுகையை வழங்கவும்.",
+  "Display a 15-minute price lock timer to create urgency without discount erosion.": "15 நிமிட விலை லாக் டைமரை காண்பித்து விரைவான ஆர்டரை தூண்டவும்.",
+  "Offer a small flat ₹100 instant bank discount or UPI cashback.": "UPI அல்லது கார்டு மூலம் ₹100 உடனடி தள்ளுபடி பெறவும்.",
+  "Show real-time stock alert: 'Only 3 items left in stock — 45 users viewing right now'.": "ஸ்டாக் எச்சரிக்கை: '3 பொருட்கள் மட்டுமே உள்ளன — 45 பேர் பார்க்கிறார்கள்'.",
+  "Highlight guaranteed express delivery by tomorrow evening.": "நாளை மாலைக்குள் உத்தரவாதமான எக்ஸ்பிரஸ் டெலிவரி பெறுங்கள்.",
+  "Trigger a standard cart abandonment reminder notification after 24 hours.": "24 மணி நேரத்திற்கு பிறகு நினைவூட்டல் அறிவிப்பை அனுப்பவும்.",
+
+  "error.session.not_found": "ஷாப்பிங் செஷன் ID '{session_id}' தரவுத்தளத்தில் கண்டறியப்படவில்லை.",
+  "notification.language.updated": "உங்களின் விருப்பமான மொழி {lang} ஆக புதுப்பிக்கப்பட்டது."
+}

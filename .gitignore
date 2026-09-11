@@ -1,0 +1,52 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Large Datasets
+*.csv
+*.parquet
+
+# Heavy PDF / Presentation / Large Artifact Files
+*.pdf
+*.pptx
+
+# Heavy Model & Plot Artifacts
+models/*.pkl
+models/*.xgb
+models/*.npy
+models/*.html
+models/chroma_db/
+plots_ab/
+plots_system_ab/
+shap_output/
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.next/
+.cache/
+
+# Environment and Secrets
+.env
+.env.local
+.env.*.local
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local Batch Launchers and Scripts
+*.bat
+*.cmd
+run_project.bat

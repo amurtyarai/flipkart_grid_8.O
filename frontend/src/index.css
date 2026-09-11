@@ -1,0 +1,109 @@
+@import "tailwindcss";
+
+@import '@fontsource/space-grotesk/400.css';
+@import '@fontsource/space-grotesk/500.css';
+@import '@fontsource/space-grotesk/700.css';
+@import '@fontsource/jetbrains-mono/400.css';
+@import '@fontsource/jetbrains-mono/600.css';
+
+:root {
+  /* ── Flipkart GRiD 8.0 Core Palette ── */
+  --color-bg:           #090B14;
+  --color-surface:      #111827;
+  --color-primary:      #2874F0;
+  --color-secondary:    #FFD400;
+  --color-success:      #00E676;
+  --color-danger:       #FF4D4F;
+  --font-ui:    'Space Grotesk', sans-serif;
+  --font-mono:  'JetBrains Mono', monospace;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-ui);
+  background: #090B14;
+  color: #f3f4f6;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Subtle futuristic mesh overlay */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(139, 92, 246, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(6, 182, 212, 0.03) 1px, transparent 1px);
+  background-size: 50px 50px;
+}
+
+.glass-mirage {
+  background: rgba(11, 15, 25, 0.75);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-mirage-glow {
+  background: rgba(15, 23, 42, 0.8);
+  backdrop-filter: blur(24px);
+  border: 1px solid rgba(139, 92, 246, 0.2);
+  box-shadow: 0 0 30px rgba(139, 92, 246, 0.1);
+}
+
+.font-mono { font-family: var(--font-mono); }
+.font-ui { font-family: var(--font-ui); }
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #030712; }
+::-webkit-scrollbar-thumb { background: #8b5cf6; border-radius: 4px; }
+
+::selection { background: #ff3d5a; color: #ffffff; }
+
+/* Custom Marquee Animation */
+@keyframes marquee-scroll {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: flex;
+  width: 200%;
+  animation: marquee-scroll 25s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* Glow Text Gradient */
+.text-gradient-mirage {
+  background: linear-gradient(135deg, #ffffff 0%, #06b6d4 40%, #8b5cf6 70%, #ff3d5a 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-red-purple {
+  background: linear-gradient(135deg, #ff3d5a 0%, #8b5cf6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.glow-orb-red {
+  box-shadow: 0 0 60px rgba(255, 61, 90, 0.35);
+}
+
+.glow-orb-purple {
+  box-shadow: 0 0 60px rgba(139, 92, 246, 0.35);
+}
+
+.glow-orb-cyan {
+  box-shadow: 0 0 60px rgba(6, 182, 212, 0.35);
+}
+
