@@ -5,7 +5,7 @@ import uuid
 import os
 
 np.random.seed(42)
-N_SESSIONS = 500_000
+N_SESSIONS = int(os.environ.get("N_SESSIONS", "500000"))
 
 def generate_data(n=N_SESSIONS):
     print(f"Generating {n} synthetic cart abandonment sessions...")
