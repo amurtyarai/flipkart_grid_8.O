@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 1. Executive Summary & Project Overview
+##  1. Executive Summary & Project Overview
 
 The **Flipkart Cart Abandonment ML & Multi-Agent RAG Platform** is an enterprise-grade, end-to-end artificial intelligence and machine learning system engineered to predict, analyze, and mitigate e-commerce cart abandonment in real-time. 
 
@@ -19,7 +19,7 @@ Cart abandonment is a major challenge in e-commerce, where users add items to th
 
 ---
 
-## 💡 2. Core Concepts & Technical Innovations
+##  2. Core Concepts & Technical Innovations
 
 ### 2.1 The 200+ Feature Synthetic Session Schema
 The platform operates on a synthetic dataset representing 500,000 shopping sessions. The schema spans **17 logical feature groups** designed to capture subtle intent signals:
@@ -46,7 +46,7 @@ The platform automatically segments shoppers into behavioral personas to tailor 
 
 ---
 
-## 🏗️ 3. Architectural Framework & Multi-Agent Workflow
+##  3. Architectural Framework & Multi-Agent Workflow
 
 ### 3.1 The 7-Layer Inference Pipeline
 
@@ -77,7 +77,7 @@ flowchart TD
 
 ---
 
-## 📊 4. System Variant Benchmarks (A/B Testing Framework)
+##  4. System Variant Benchmarks (A/B Testing Framework)
 
 The system includes a benchmarking suite (`system_agent_ab_testing.py`) that evaluates **4 System Architecture Variants** against 500,000 sessions:
 
@@ -90,7 +90,7 @@ The system includes a benchmarking suite (`system_agent_ab_testing.py`) that eva
 
 ---
 
-## 📁 5. Repository & Directory Structure
+##  5. Repository & Directory Structure
 
 ```
 new flip/
@@ -193,7 +193,7 @@ Provides REST API endpoints:
 
 ---
 
-## 🚀 7. Installation & Setup Guide
+##  7. Installation & Setup Guide
 
 ### 7.1 Prerequisites
 - **Python**: 3.9+ (Python 3.10 or 3.11 recommended)
@@ -231,7 +231,7 @@ Provides REST API endpoints:
 
 ---
 
-## 💻 8. Usage Guide & Execution Commands
+##  8. Usage Guide & Execution Commands
 
 ### 8.1 Method 1: Boot Entire System with Orchestrator (Recommended)
 Runs pre-flight verification checks and starts the FastAPI backend server:
@@ -286,7 +286,7 @@ Generated artifacts will be created in root:
 
 ---
 
-## 🌐 9. API Reference & Payload Specifications
+##  9. API Reference & Payload Specifications
 
 ### `POST /predict`
 
@@ -338,7 +338,7 @@ Generated artifacts will be created in root:
 
 ---
 
-## 📊 10. Statistical Formulas & A/B Methodology
+##  10. Statistical Formulas & A/B Methodology
 
 The A/B testing suite implements strict statistical validation across experiments:
 
@@ -357,7 +357,7 @@ The A/B testing suite implements strict statistical validation across experiment
 
 ---
 
-## 🎯 11. Key Business Value & Impact Summary
+##  11. Key Business Value & Impact Summary
 
 - **Conversion Rate Lift**: Increases recovered cart conversions from 12.4% baseline to 29.4% (+137% relative increase).
 - **Profit Margin Protection**: Prevents blanket discounting by reserving financial incentives strictly for high-risk, price-sensitive shoppers with high recovery confidence.
