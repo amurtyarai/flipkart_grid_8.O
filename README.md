@@ -1,6 +1,6 @@
 # Flipkart Cart Abandonment ML & Multi-Agent RAG Platform
 
-> **Flipkart Grid 7.0 Enterprise Solution**  
+> **Flipkart Grid 8.O Enterprise Solution**  
 > An end-to-end Machine Learning, Explainable AI (SHAP), Multi-Agent RAG, and Statistical A/B Testing platform designed to predict, diagnose, and prevent e-commerce cart abandonment in real-time.
 
 ---
