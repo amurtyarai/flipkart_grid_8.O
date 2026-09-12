@@ -365,4 +365,4 @@ The A/B testing suite implements strict statistical validation across experiment
 - **Low Latency Sub-100ms Inference**: Optimized FastAPI pipeline ensures real-time nudge delivery before the user closes the session tab.
 
 ---
-*Documentation built for Flipkart Grid 7.0 / Flipkart Cart Abandonment ML Platform.*
+*Documentation built for Flipkart Grid 8.O / Flipkart Cart Abandonment ML Platform.*
