@@ -36,6 +36,6 @@
   "random_seed": 42,
   "test_size": 0.1,
   "val_size": 0.1,
-  "classification_threshold": 0.5,
+  "classification_threshold": 0.41,
   "n_features": 128
 }
