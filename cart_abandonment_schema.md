@@ -1,6 +1,6 @@
 # Synthetic Dataset Design: Cart Abandonment Prediction (Expanded)
 
-As a Senior Machine Learning Engineer designing a high-fidelity synthetic dataset for Flipkart's cart abandonment model, the goal is to ensure the XGBoost model learns meaningful, real-world behavioral patterns rather than noise. 
+Designing a high-fidelity synthetic dataset for Flipkart's cart abandonment model, the goal is to ensure the XGBoost model learns meaningful, real-world behavioral patterns rather than noise. 
 
 This expanded document outlines a robust schema of ~200 features categorized into 17 logical groups, including advanced signals like Mouse Gestures, Price Intelligence, Trust Features, and deep User Psychology metrics. The schema is built to be rich, relying on the fact that XGBoost naturally prunes weak features, but cannot learn from signals that aren't there.
 
