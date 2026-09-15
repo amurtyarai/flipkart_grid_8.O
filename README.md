@@ -62,9 +62,9 @@ For the full, detailed technical architecture, 200-feature schema breakdown, 7-l
 | Variant | Architecture | Conversion Rate | Precision | Revenue Lift | Margin Saved |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **A** | Rule-Based Baseline | 12.4% | 58.2% | Baseline | ₹0 |
-| **B** | Standalone XGBoost | 18.7% | 84.1% | +18.5% | ₹1.2M |
-| **C** | XGBoost + SHAP | 22.1% | 88.6% | +26.3% | ₹2.8M |
-| **D** | **Full Multi-Agent Pipeline** | **29.4%** | **94.2%** | **+41.8%** | **₹5.4M** |
+| **B** | Standalone XGBoost | 18.7% | 80.1% | +18.5% | ₹1.2M |
+| **C** | XGBoost + SHAP | 22.1% | 81.6% | +26.3% | ₹2.8M |
+| **D** | **Full Multi-Agent Pipeline** | **29.4%** | **84.2%** | **+41.8%** | **₹5.4M** |
 
 ---
 *Created for Flipkart Grid Platform.*
